@@ -1,6 +1,6 @@
 # MCP MySQL Server
 
-🚀 **Advanced MySQL MCP (Model Context Protocol) Server** with authentication, caching, and dynamic configuration support.
+**Advanced MySQL MCP (Model Context Protocol) Server** with authentication, caching, and dynamic configuration support.
 
 [![npm version](https://badge.fury.io/js/mcp-mysql.svg)](https://badge.fury.io/js/mcp-mysql)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
