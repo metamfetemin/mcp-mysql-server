@@ -36,8 +36,8 @@
 
 ```bash
 # Clone or download the project
-git clone <repository-url>
-cd mcp-mysql
+git clone https://github.com/metamfetemin/mcp-mysql-server.git
+cd mcp-mysql-server
 
 # Install dependencies
 npm install
